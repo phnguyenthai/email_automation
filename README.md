@@ -33,3 +33,8 @@ To streamline the current workflow and improve efficiency, I propose developing 
    - Upon receiving the email with attachments, automatically download the reports and share them on Signal.
 
 This solution will significantly reduce manual effort, improve accuracy, and ensure timely distribution of business metrics and updates.
+
+
+**Impact:**
+
+This solution significantly reduces the reporting time, freeing up the team to focus on other critical business problems. By automating the data extraction, processing, and distribution processes, the team can reinvest their time and effort into more strategic tasks, thereby contributing to the overall success of the department.
